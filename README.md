@@ -6,9 +6,10 @@ This repository contains examples of Excel-based compliance and governance syste
 
 The solutions were designed to provide a single source of truth for project teams, enabling real-time monitoring of compliance status, project progress, outstanding actions and regulatory obligations across multiple concurrent projects.
 
-All project information within this repository has been anonymised and recreated for portfolio purposes.
+All project information within this repository has been anonymised and recreated for portfolio purposes. 
 
-Several of the systems were designed and are now supplemented by AI-assisted workflows to help identify regulatory requirements, populate compliance registers and streamline project reporting.
+Several of the systems were designed and are now supplemented by AI-assited workflows to help identify regulatory requirements, populate compliance registers and streamline project reporting. 
+
 ---
 
 # Project 1 – Building Regulations Compliance Management System
