@@ -8,7 +8,7 @@ The solutions were designed to provide a single source of truth for project team
 
 All project information within this repository has been anonymised and recreated for portfolio purposes.
 
-**Several of the systems were designed and are now supplemented by AI-assisted workflows to help identify regulatory requirements, populate compliance registers and streamline project reporting.**
+Several of the systems were designed and are now supplemented by AI-assisted workflows to help identify regulatory requirements, populate compliance registers and streamline project reporting.
 ---
 
 # Project 1 – Building Regulations Compliance Management System
