@@ -1,225 +1,96 @@
-# Construction Compliance & Governance Reporting Suite
+# 📊 Excel Analytics Projects
 
-## Overview
+A collection of Excel tools I've developed around **construction compliance, project governance, risk management, Building Regulations and technical information management**.
 
-This repository contains examples of Excel-based compliance and governance systems developed to support the management of construction projects, regulatory requirements, statutory submissions and project deliverables.
+I enjoy taking complicated information, figuring out what people actually need from it, and turning it into something structured, useful and easier to manage.
 
-The solutions were designed to provide a single source of truth for project teams, enabling real-time monitoring of compliance status, project progress, outstanding actions and regulatory obligations across multiple concurrent projects.
+These projects demonstrate how I use **Excel, Power Query, formulas, PivotTables, dashboards, data validation and conditional formatting** to build practical reporting and information-management systems.
 
-All project information within this repository has been anonymised and recreated for portfolio purposes. 
+## 🏗️ Projects
 
-Several of the systems were designed and are now supplemented by AI-assited workflows to help identify regulatory requirements, populate compliance registers and streamline project reporting. 
+### Construction Compliance & Governance Tracker
 
----
+A multi-project governance and reporting system covering 70 synthetic projects, bringing together programme progress, CDM, Building Control, risk, statutory requirements and project actions.
 
-# Project 1 – Building Regulations Compliance Management System
-
-## Purpose
-
-A Building Regulations tracking system developed to monitor compliance requirements, duty holder responsibilities and approval progress throughout the project lifecycle.
-
-The system enables project teams to:
-
-- Track Building Regulations requirements
-- Monitor Building Control appointments
-- Manage Fire Safety compliance requirements
-- Record statutory submissions and approvals
-- Monitor project compliance status
-- Identify outstanding actions and risks
-- Generate client-specific reporting views
-
-## Key Features
-
-### Data Management
-
-- Structured project register
-- Building Regulations requirement tracking
-- Building Control status monitoring
-- Fire Safety compliance monitoring
-- Risk categorisation
-- Action management
-
-### Power Query
-
-- Data transformation
-- Data cleansing and validation
-- Automated project mapping
-- Compliance calculations
-- Progress monitoring
-- Dynamic status allocation
-
-### Reporting
-
-- Portfolio dashboards
-- Client-specific reporting views
-- Performance tracking
-- Compliance monitoring
-- Action ownership reporting
-- Interactive filtering and slicing
-
-### Skills Demonstrated
-
-- Excel
-- Power Query (M)
-- Pivot Tables
-- Dashboard Design
-- Compliance Reporting
-- Data Transformation
-- Data Modelling
-- Stakeholder Reporting
-- Construction Governance
+**Focus:** Portfolio reporting · Power Query · Schedule variance · KPIs · Compliance tracking
 
 ---
 
-# Project 2 – Construction Compliance & Governance Management System
+### Building Regulations & CDM Compliance Dashboard
 
-## Purpose
+A structured compliance system combining detailed Building Regulations, CDM and selected fire-safety requirements with dashboard-level reporting.
 
-A project governance solution developed to manage regulatory obligations, CDM requirements, construction deliverables and statutory documentation across a portfolio of projects.
-
-The system consolidates information from multiple project workstreams into a single reporting environment.
-
-## Compliance Areas Covered
-
-### CDM
-
-- F10 Tracking
-- PCI Monitoring
-- Construction Phase Plan Status
-- Residual Risk Reviews
-- Regulation 38 Monitoring
-- Health & Safety File Tracking
-
-### Building Regulations
-
-- Building Control Appointment Status
-- Building Regulation Upload Tracking
-- Validation Monitoring
-- Compliance Status
-- Fire Safety Requirements
-
-### Deliverables
-
-- Health & Safety File Progress
-- Drawing Register Status
-- SharePoint Requirements
-- Safety Visit Tracking
-- Document Management
-
-## Key Features
-
-### Dynamic Reporting Views
-
-The system provides role-specific and discipline-specific views from a single dataset, including:
-
-- CDM Compliance View
-- Building Regulations View
-- Fire Safety View
-- Deliverables View
-- Management Dashboard
-
-### Automation
-
-Implemented using Power Query and business-rule logic to:
-
-- Calculate project performance
-- Compare expected versus actual progress
-- Automatically classify projects as:
-  - Ahead of Target
-  - On Target
-  - Behind Schedule
-- Flag compliance risks
-- Identify overdue actions
-
-### Portfolio Dashboard
-
-Key performance indicators include:
-
-- Live Projects
-- Pending Actions
-- Closed Actions
-- Compliance Status
-- Resource Workloads
-- Client Distribution
-- Project Progress
-
-### Skills Demonstrated
-
-- Advanced Excel
-- Power Query
-- Data Transformation
-- KPI Reporting
-- Project Governance
-- Compliance Monitoring
-- Data Validation
-- Conditional Formatting
-- Pivot Tables
-- Dashboard Development
-- Process Automation
+**Focus:** XLOOKUP · Linked datasets · Compliance status · Progress reporting · Dashboards
 
 ---
 
-# Technical Highlights
+### Construction Risk Analysis & RACI Dashboard
 
-### Power Query (M)
+A linked risk-management system combining 5 × 5 risk scoring, initial and residual risk analysis, RAG reporting and dynamic RACI responsibility mapping.
 
-Examples include:
-
-- Custom progress calculations
-- Schedule variance monitoring
-- Automated status assignment
-- Dynamic data transformation
-- Multi-table integration
-
-### Reporting Architecture
-
-Project Data Sources
-
-↓
-
-Power Query
-
-↓
-
-Compliance Dataset
-
-↓
-
-Governance Reporting
-
-↓
-
-Dashboard Views
-
-↓
-
-Stakeholder Reporting
+**Focus:** LET · FILTER · SWITCH · Risk analysis · RACI · Dashboard reporting
 
 ---
 
-# Outcome
+### Multi-Project Building Control Dashboard
 
-These systems were developed to improve visibility of project compliance, reduce manual reporting effort and provide project teams with clear, actionable information through a structured reporting environment.
+A portfolio Building Control system consolidating checklists, project contacts, issue registers and progress reporting across 10 synthetic projects.
 
-The solutions demonstrate how Excel, Power Query and data modelling can be used to create scalable compliance and governance systems without the need for specialist database software.
-
----
-
-## Technologies Used
-
-- Microsoft Excel
-- Power Query (M)
-- Pivot Tables
-- Slicers
-- Conditional Formatting
-- Data Validation
-- Dashboard Reporting
-- Construction Compliance Frameworks
-- CDM 2015
-- Building Regulations Management
+**Focus:** Multi-project consolidation · PivotTables · Issue tracking · Portfolio dashboards
 
 ---
 
-## Note
+### Building Control Evidence & Action Tracker
 
-All project names, client details, locations, project references and commercially sensitive information have been anonymised. The examples shown are intended solely to demonstrate reporting, governance, compliance tracking and data analysis capabilities.
+A detailed register for managing Building Control evidence requirements, responsibilities, outstanding actions and review status.
+
+**Focus:** Structured tables · Action tracking · Responsibility management · Evidence control
+
+---
+
+### Design Document & Drawing Register
+
+A multidisciplinary register for managing drawings, specifications and technical documents, including revisions, status, standards references and design-review information.
+
+**Focus:** Document control · Design coordination · Conditional formatting · Standards-reference tracking
+
+---
+
+## 🛠️ Technical Skills
+
+Across these projects I use:
+
+- **Excel & Power Query**
+- Structured Excel Tables
+- XLOOKUP
+- LET, FILTER, SWITCH and SEARCH
+- COUNTIF / COUNTIFS
+- PivotTables and PivotCharts
+- Slicers and filters
+- Data validation
+- Conditional formatting
+- Dashboard and KPI design
+- RAG reporting
+- Schedule and variance calculations
+- Risk matrices and RACI
+- Multi-project data modelling
+
+## 🧠 Why I Build These
+
+A lot of my work starts with some variation of:
+
+> **"There has to be a better way of managing this."**
+
+I like finding the gaps in an existing process, structuring the information properly and building something that reduces repeated admin or makes complicated project information easier to understand.
+
+Sometimes that's a dashboard. Sometimes it's a tracker. Sometimes it becomes a 70-project workbook because apparently I don't know when to leave Excel alone.
+
+## 🤖 Portfolio Data & AI Use
+
+The **workbook structures, formulas, calculations, dashboards, reporting logic and overall designs were created by me**.
+
+For the public portfolio versions, **AI was used to generate fictional example data** so the tools could demonstrate realistic scenarios and data volumes without exposing real clients, projects, colleagues or commercially sensitive information.
+
+All example project information is therefore synthetic.
+
+> Regulatory, legislative and standards references are included for demonstration purposes and should be independently verified against current authoritative sources and project-specific requirements before practical use.
