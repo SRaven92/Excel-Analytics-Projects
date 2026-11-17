@@ -1,6 +1,6 @@
 # 📊 Excel Analytics Projects
 
-A collection of Excel tools I've developed around **construction compliance, project governance, risk management, Building Regulations and technical information management**.
+A collection of Excel tools I've developed around **construction compliance, project governance, risk management, Building Regulations, technical information management and real-world data organisation**.
 
 I enjoy taking complicated information, figuring out what people actually need from it, and turning it into something structured, useful and easier to manage.
 
@@ -56,6 +56,18 @@ A multidisciplinary register for managing drawings, specifications and technical
 
 ---
 
+### 🏎️ TCR Car Collection & Race Tracker
+
+A real-world Excel system created to organise a vintage TCR car collection and its historical race-testing data.
+
+Originally built for my dad, the project developed into a structured system for managing **250+ cars**, assigning permanent unique IDs, consolidating historical records and tracking performance across inside and outside racing lanes.
+
+The workbook includes automated fastest, slowest and average lap calculations, combined performance rankings, validation controls and data-quality checks. Historical inconsistencies are flagged for review rather than silently corrected, preserving the original data for traceability.
+
+**Focus:** Data modelling · XLOOKUP · Structured tables · Data validation · Automated calculations · Data quality · Ranking · Traceability
+
+---
+
 ## 🛠️ Technical Skills
 
 Across these projects I use:
@@ -65,6 +77,8 @@ Across these projects I use:
 - XLOOKUP
 - LET, FILTER, SWITCH and SEARCH
 - COUNTIF / COUNTIFS
+- SUMIF and SUMPRODUCT
+- MIN, MAX and AVERAGE
 - PivotTables and PivotCharts
 - Slicers and filters
 - Data validation
@@ -74,6 +88,8 @@ Across these projects I use:
 - Schedule and variance calculations
 - Risk matrices and RACI
 - Multi-project data modelling
+- Data-quality and exception checking
+- Source-data traceability
 
 ## 🧠 Why I Build These
 
@@ -81,9 +97,11 @@ A lot of my work starts with some variation of:
 
 > **"There has to be a better way of managing this."**
 
-I like finding the gaps in an existing process, structuring the information properly and building something that reduces repeated admin or makes complicated project information easier to understand.
+I like finding the gaps in an existing process, structuring the information properly and building something that reduces repeated admin or makes complicated information easier to understand.
 
-Sometimes that's a dashboard. Sometimes it's a tracker. Sometimes it becomes a 70-project workbook because apparently I don't know when to leave Excel alone.
+Sometimes that's a dashboard. Sometimes it's a tracker. Sometimes it's a system for managing 250+ tiny racing cars for my dad.
+
+And sometimes it becomes a 70-project workbook because apparently I don't know when to leave Excel alone.
 
 ## 🤖 Portfolio Data & AI Use
 
@@ -92,5 +110,7 @@ The **workbook structures, formulas, calculations, dashboards, reporting logic a
 For the public portfolio versions, **AI was used to generate fictional example data** so the tools could demonstrate realistic scenarios and data volumes without exposing real clients, projects, colleagues or commercially sensitive information.
 
 All example project information is therefore synthetic.
+
+The **TCR Car Collection & Race Tracker is different**: it was developed from real collection and historical race-test data supplied for the project. Where historical information was missing or inconsistent, the original values were preserved and issues were flagged rather than replacement data being invented.
 
 > Regulatory, legislative and standards references are included for demonstration purposes and should be independently verified against current authoritative sources and project-specific requirements before practical use.
